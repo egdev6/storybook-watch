@@ -32,9 +32,10 @@ npx storybook-watch
 ```
 
 This will:
-	1.	Monitor your component directory (src/components/).
-	2.	Kill the current Storybook server instance if it’s running.
-	3.	Relaunch Storybook so changes are reflected instantly.
+
+1.	Monitor your component directory (src/components/).
+2.	Kill the current Storybook server instance if it’s running.
+3.	Relaunch Storybook so changes are reflected instantly.
 
 Make sure the path to your component files and the Storybook start command are correctly configured in the script.
 
