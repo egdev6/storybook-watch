@@ -15,7 +15,7 @@ This repository contains a simple script that automatically restarts the [Storyb
 When you're working on UI components, keeping your Storybook instance up to date with every change can be a hassle—especially if Storybook doesn't reflect changes due to caching or stale state.  
 This script watches for file changes in your component folders and **automatically relaunches Storybook**, ensuring you always see the latest version of your UI without manual restarts.
 
-## Requirements
+## ⚠️ Requirements
 
 You need to have installed storybook in your project: https://storybook.js.org/docs/get-started/install
 
@@ -62,7 +62,7 @@ https://github.com/styleguidist/react-docgen-typescript
 https://storybook.js.org/docs/writing-docs/autodocs
 
 
-## Contact
+## 💬 Contact
 
 <div align="center">
 
