@@ -47,7 +47,7 @@ This setup allows you to:
 	•	Add MDX-style descriptions and notes directly to your component types.
 	•	Automatically generate prop controls and documentation tables.
 	•	Keep your Storybook docs always in sync with your codebase.
-## C
+
 ## 📚 Read more:
-	•	Autodocs in Storybook
-	•	react-docgen-typescript GitHub
+	•	[Autodocs in Storybook](https://storybook.js.org/docs/writing-docs/autodocs)
+	•	[react-docgen-typescript GitHub](https://github.com/styleguidist/react-docgen-typescript)
