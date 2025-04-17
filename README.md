@@ -42,17 +42,20 @@ Make sure the path to your component files and the Storybook start command are c
 ## 🧩 Recommended Addons for Full Autodocumentation
 
 To enhance your Storybook setup and make the auto-restart workflow even more effective, it’s highly recommended to install and configure the following:
-	•	@storybook/addon-autodocs: Enables automatic generation of documentation from your component source and props.
-	•	react-docgen or react-docgen-typescript: Parses your component props and allows you to write MDX annotations directly in your TypeScript types.
+	
+ •	@storybook/addon-autodocs: Enables automatic generation of documentation from your component source and props.
+ •	react-docgen or react-docgen-typescript: Parses your component props and allows you to write MDX annotations directly in your TypeScript types.
 
 This setup allows you to:
-	•	Add MDX-style descriptions and notes directly to your component types.
-	•	Automatically generate prop controls and documentation tables.
-	•	Keep your Storybook docs always in sync with your codebase.
+
+•	Add MDX-style descriptions and notes directly to your component types.
+•	Automatically generate prop controls and documentation tables.
+•	Keep your Storybook docs always in sync with your codebase.
 
 ## 📚 Read more
 
 https://github.com/styleguidist/react-docgen-typescript
+
 https://storybook.js.org/docs/writing-docs/autodocs
 
 
