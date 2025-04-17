@@ -21,27 +21,14 @@ You need to have installed storybook in your project: https://storybook.js.org/d
 
 ## 📦 Installation
 
-### As npm package
-
 ```
 npm i -D storybook-watch
 ```
-### Manually
-
-Clone this repository or copy the script into your project.
-Install the required dependencies or add to your package.json.
 
 ## ⚙️ Usage
 
-### As npm package
-
 ```
-npm run storybook-watch
-```
-### Manully
-
-```
-node run-watch.js
+npx storybook-watch
 ```
 
 This will:
@@ -50,14 +37,6 @@ This will:
 	3.	Relaunch Storybook so changes are reflected instantly.
 
 Make sure the path to your component files and the Storybook start command are correctly configured in the script.
-
-## 🔧 Customizing the Watch Path (only disponible manually)
-
-If your components are located in a different directory, you can easily change the folder being watched by editing the following line in run-watch.js:
-```
-const watchPath = `${process.cwd()}/src/components/`;
-```
-Replace it with the path to your component folder as needed.
 
 ## 🧩 Recommended Addons for Full Autodocumentation
 
