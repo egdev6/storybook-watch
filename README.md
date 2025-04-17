@@ -1,3 +1,11 @@
+<div align="center">
+  
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+</div>
+
 # 🔄 Storybook Watch Script
 
 This repository contains a simple script that automatically restarts the [Storybook](https://storybook.js.org/) server whenever changes are detected in your src/components files.
@@ -48,6 +56,28 @@ This setup allows you to:
 	•	Automatically generate prop controls and documentation tables.
 	•	Keep your Storybook docs always in sync with your codebase.
 
-## 📚 Read more:
-	•	[Autodocs in Storybook](https://storybook.js.org/docs/writing-docs/autodocs)
-	•	[react-docgen-typescript GitHub](https://github.com/styleguidist/react-docgen-typescript)
+## 📚 Read more
+
+https://github.com/styleguidist/react-docgen-typescript
+https://storybook.js.org/docs/writing-docs/autodocs
+
+
+## Contact
+
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egdev/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/egdev6)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egdev6o@gmail.com)
+
+</div>
+
+[stars-shield]: https://img.shields.io/github/stars/egdev6/storybook-watch.svg?style=for-the-badge
+[stars-url]: https://github.com/egdev6/storybook-watch/stargazers
+[issues-shield]: https://img.shields.io/github/issues/egdev6/storybook-watch.svg?style=for-the-badge
+[issues-url]: https://github.com/egdev6/storybook-watch/issues
+[license-shield]: https://img.shields.io/github/license/egdev6/storybook-watch.svg?style=for-the-badge
+[license-url]: https://github.com/egdev6/storybook-watch/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/egdev6
+
