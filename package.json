@@ -1,6 +1,6 @@
 {
 	"name": "storybook-watch",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A simple script that automatically restarts the Storybook server whenever changes are detected in your component files.",
 	"bin": {
 		"storybook-watch": "./bin/index.js"
