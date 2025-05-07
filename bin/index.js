@@ -44,7 +44,7 @@ function restartStorybook(path) {
 
       // Reiniciar Storybook
       console.log('[🚀] Reiniciando Storybook...');
-      storybookProcess = spawn('npm', ['run', 'storybook'], {
+      storybookProcess = spawn('npm', ['run', 'storybook-cli'], {
         stdio: 'inherit',
         shell: true,
       });

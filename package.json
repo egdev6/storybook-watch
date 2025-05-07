@@ -1,20 +1,25 @@
 {
 	"name": "storybook-watch",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A simple script that automatically restarts the Storybook server whenever changes are detected in your component files.",
 	"bin": {
 		"storybook-watch": "./bin/index.js"
 	},
-	"keywords": ["storybook", "watcher", "auto-restart", "script"],
+	"keywords": [
+		"storybook",
+		"watcher",
+		"auto-restart",
+		"script"
+	],
 	"author": "egdev",
 	"license": "MIT",
 	"type": "module",
 	"dependencies": {
-		"chokidar": "^3.5.3",
-		"kill-port": "^1.6.1",
-		"open": "^8.4.0"
+		"@storybook/cli": "8.6.12",
+		"chokidar": "3.5.3",
+		"kill-port": "1.6.1",
+		"open": "8.4.0"
 	},
-	"devDependencies": {},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/egdev6/storybook-watch.git"
