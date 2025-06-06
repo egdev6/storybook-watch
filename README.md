@@ -6,6 +6,8 @@
 
 </div>
 
+![Storybook-watch](https://github.com/user-attachments/assets/fcef080f-802c-4bd3-9893-9453b3b072c9)
+
 # 🔄 Storybook Watch Script
 
 This repository contains a simple script that automatically restarts the [Storybook](https://storybook.js.org/) server whenever changes are detected in your src/components files.
